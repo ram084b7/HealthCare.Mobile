@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{96E54375-758C-4BDA-8D82-4DD943DC4BEF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HC.MobileApp.Droid/MainActivity.cs">
+    <Files>
+      <File FileName="Class1.cs" Line="1" Column="1" />
+      <File FileName="HC.MobileApp.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="HC.MobileApp.Droid/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HC.MobileApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A1CFE4B4-3A76-48AA-A664-AC9BF178A818" FirstBuild="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.HC.MobileApp.iOS>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HC.MobileApp.Droid FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HC.MobileApp.Core FirstBuild="True" />
+</Properties>
